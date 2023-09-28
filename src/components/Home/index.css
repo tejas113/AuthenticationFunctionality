@@ -1,0 +1,12 @@
+.headEdit {
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.homeEdit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
